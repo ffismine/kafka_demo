@@ -6,8 +6,8 @@ myConsumer消费topic2数据
 
 
 #### 自定义修改配置如下
-#####     myProducer.TOPIC1 
-#####     myProducer.TOPIC2
-#####     myProducer.bootstrap_servers
+##### myProducer.TOPIC1 
+##### myProducer.TOPIC2
+##### myProducer.bootstrap_servers
 
 
